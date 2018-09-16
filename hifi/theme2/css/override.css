@@ -1,0 +1,20 @@
+body {
+	background-color:#12838E;
+}
+
+.wrapper {
+	padding-top: 50px;
+	color: #ffffff;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.device {
+	margin: 1em auto;	
+}
+
+.zoom {
+  zoom: 100%;
+}
